@@ -7,6 +7,7 @@
     <list default="true" id="aa1a3c75-cb5a-47ec-8f1c-38d93225db6c" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/polaris-ci-aggregator/src/main/java/com/polarisciaggregator/model/Deployment.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/polaris-ci-aggregator/src/main/java/com/polarisciaggregator/repository/DeploymentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polaris-ci-aggregator" beforeDir="false" afterPath="$PROJECT_DIR$/polaris-ci-aggregator" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/polaris-ci-aggregator/src/main/java/com/polarisciaggregator/aggregator/LeadTimeAggregator.java" beforeDir="false" afterPath="$PROJECT_DIR$/polaris-ci-aggregator/src/main/java/com/polarisciaggregator/aggregator/JenkinsAggregatorTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/polaris-ci-aggregator/src/main/java/com/polarisciaggregator/repository/AggregatedCommitRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/polaris-ci-aggregator/src/main/java/com/polarisciaggregator/repository/AggregatedCommitRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/polaris-ci-aggregator/src/main/java/com/polarisciaggregator/repository/CommitRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/polaris-ci-aggregator/src/main/java/com/polarisciaggregator/repository/CommitRepository.java" afterDir="false" />
@@ -32,7 +33,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/master" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1sD8EbD6BAErDdKyoxCuS1cBucx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
